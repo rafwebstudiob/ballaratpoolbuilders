@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ballaratpoolbuilders.com.au/sitemap.xml
